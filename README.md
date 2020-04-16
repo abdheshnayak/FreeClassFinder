@@ -1,33 +1,31 @@
-# Type Practice Lite
+# Free Class Finder
 
-Best way to sharp your typing skill.
+C++ Project to find which class is free in a lecture that can be used.
 
-![Image of the Main Screen](1.png)
+![Image of the OutPut Screen](1.png)
 
-## Getting Started
+## Introduction
 
-Type practice is a small and lite application build with C++ to practice and achieve the best typing skills.
+This is the C++ Project which is fully dynamic and it can be used for any college this software is fully flexible and it can be initialized according to the need. and it will generate a report of a day by combining the class routine of the hole classes. it can be worked for different departments.
 
 ### Features
 - Easy to Run.
-- Easy to learn typing and increase your typing speed.
+- Easy to Initialize.
 - Free software.
 - Bug free.
-- Numbers of Stories to practice.
-- Regular updates.
 - Small in size.
-- You can practice on Your own Story.
+- Source Code can be Given on request on linkedIn.
 
 ### Prerequisites
 
 This application is built for Windows platform.
-If you have a Windows platform then you can run it simply by double-click you don't need to install it.
+If you have a Windows platform then you can run it simply by double-click on executable you don't need to install it.
 
 ### Download
-Link - [Type Practice Lite](https://sourceforge.net/projects/type-practice-lite/)
+Link - [Free Class Finder](https://sourceforge.net/projects/free-class-room-finder/)
 
 ### Runing
-just double click on the downloaded app and then start your typing practice.
+just double click on the downloaded executable and then start your typing practice.
 
 
 ## Built With
@@ -38,4 +36,4 @@ just double click on the downloaded app and then start your typing practice.
 
 * **Abdhesh Nayak** - [Github](https://github.com/abdheshnayak), [LinkedIn](https://www.linkedin.com/in/abdhesh-nayak/)
 
-See also the list of [contributors](https://github.com/abdheshnayak/Type-Practice-Lite/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/abdheshnayak/FreeClassFinder/contributors) who participated in this project.
